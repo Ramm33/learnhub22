@@ -2,6 +2,9 @@
 
 **LearnHub** is a comprehensive online learning platform designed to **empower learners, professionals, and enthusiasts** by offering a structured environment for skill-building. This repository contains the **source code and architecture** of the LearnHub platform, built with modern web technologies, focusing on **interactive learning, practical exercises, and career-focused skill development**.
 
+## Demo Video  
+[Click here to watch](https://drive.google.com/file/d/1rP_TAbFNqEdFeP5JZhAdthJsnHqhZb2j/view?usp=drive_link)
+
 ### **Key Features:**
 
 * **User Authentication & Authorization:** Secure login and signup functionality using JWT-based authentication.
